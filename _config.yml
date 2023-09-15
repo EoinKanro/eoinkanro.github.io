@@ -70,7 +70,7 @@ content:
         quote: >
            Log your transactions, gain insights, and take control of your finances effortlessly.
         description: | # this will include new lines to allow paragraphs
-          This app simplifies financial management. Track transactions, access hourly currency rates for international transactions, and customize spending categories. It works mostly offline for convenience and security. Only you will have your data. Additionally it ensures data security with encryption and password protection. Get insights into your spending and streamline budgeting. Plus, you can easily backup your database to your preferred location.
+           This app simplifies financial management. Track transactions, access hourly currency rates for international transactions, and customize spending categories. It works mostly offline for convenience and security. Only you will have your data. Additionally it ensures data security with encryption and password protection. Get insights into your spending and streamline budgeting. Plus, you can easily backup your database to your preferred location.
     layout: list # Type of content section (list/text)
     content:
       - layout: left

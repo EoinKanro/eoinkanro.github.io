@@ -101,8 +101,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-        Beyond coding, I find joy in various facets of life. I'm an avid gamer, always eager for the next virtual adventure. When I'm not immersed in code or gaming, you can often find me gliding on a skateboard, feeling the exhilaration of carving through the streets. My heart finds solace in the embrace of nature, especially the enchanting serenity of forests and the calming expanse of seas.
-        Also sometimes I like to try something new like sewing, modeling, hiking and so one :)
+        Beyond coding, I find joy in various facets of life. I like gaming, watching anime and movies. When I'm not immersed in virtual reality, you can find me trying dishes in local restaurants and skateboarding in parks. Nature is my passion, I enjoy being in forests or near seas.
+        Also sometimes I like to try something new like sewing, modeling, hiking on mountains and so one :)
 
 # Footer
 footer_show_references: true

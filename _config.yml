@@ -76,7 +76,7 @@ content:
     content:
       - layout: left
         title: X5 Group
-        link: www.x5.ru/en/
+        link: x5.ru/en/
         # link_text: boringcompany.com
         sub_title: Java Developer
         caption: February 2022 - Present

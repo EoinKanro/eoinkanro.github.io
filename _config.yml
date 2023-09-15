@@ -97,7 +97,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           My educational journey at the National Research University "Moscow Power Engineering Institute" was a transformative experience in the field of Information Security. Throughout my studies, I delved into a diverse range of subjects, from the intricacies of law and cryptography to the critical realm of network security and the fascinating study of side electromagnetic radiation.
 
-          The program at Moscow Power Engineering Institute provided me with a comprehensive understanding of the multifaceted nature of information security. I learned to safeguard data, systems, and networks from a variety of threats, developing the skills necessary to analyze vulnerabilities and implement robust defenses.
+          The program provided me with a comprehensive understanding of the multifaceted nature of information security. I learned to safeguard data, systems, and networks from a variety of threats, developing the skills necessary to analyze vulnerabilities and implement robust defenses.
     
       - layout: left
         title: Moscow College of Computer Science and Computer Engineering

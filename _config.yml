@@ -75,16 +75,44 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: X5 Group
+        link: www.x5.ru/en/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Java Developer
+        caption: February 2022 - Present
+        # quote: >
+          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            In progress. Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            My role atX5 Group has been a rewarding journey marked by innovation in loyalty systems and retail software. At X5 Group, I've had the privilege of working on projects that directly impact the retail industry.
 
+            A significant part of my responsibilities has centered around enhancing and optimizing the loyalty system, a crucial component of modern retail operations. This involved designing and developing Java-based solutions to streamline customer loyalty programs, boost engagement, and drive sales growth.
+
+            Additionally, I've been actively involved in the creation of software for cash registers, contributing to the efficiency and reliability of transaction processes within X5 Group's retail network.
+      - layout: left
+        title: GlowByte Consulting
+        link: glowbyteconsulting.com
+        # link_text: boringcompany.com
+        sub_title: Java Developer
+        caption: June 2020 - February 2022
+        # quote: >
+          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+             My journey as a Java Developer at Glowbyte Consulting marked the inception of my career in software development. This role was not just a job but a passionate pursuit of excellence. At Glowbyte, I had the privilege of collaborating with some of the biggest names in the industry, including top three telecom companies and a prominent bank, each presenting unique challenges and opportunities.
+
+             I took part in the development of applications geared towards analyzing large-scale data traffic, necessitating high-speed and robust application performance.
+
+      - layout: left
+        title: СТРОЙГАЗМОНТАЖ
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Tech Support
+        caption: September 2016 - March 2020
+        # quote: >
+          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            In my previous role as a tech support professional, I gained valuable experience in troubleshooting computer systems, managing networks, and providing technical assistance to users. While this job may not have been my passion, it allowed me to develop a set of crucial skills and contribute effectively to the organization.
+
+            I was responsible for diagnosing and resolving technical issues, ensuring the functionality of computer hardware, and assisting users in overcoming their challenges with various technologies. Through this role, I honed my problem-solving abilities and cultivated patience in assisting users with diverse technical backgrounds.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:

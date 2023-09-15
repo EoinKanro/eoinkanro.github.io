@@ -89,15 +89,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: National Research University "Moscow Power Engineering Institute"
+        caption: 2016 - 2019
+        sub_title: Information security
+        # quote: >
+          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          In progress. During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          My educational journey at the National Research University "Moscow Power Engineering Institute" was a transformative experience in the field of Information Security. Throughout my studies, I delved into a diverse range of subjects, from the intricacies of law and cryptography to the critical realm of network security and the fascinating study of side electromagnetic radiation.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          The program at Moscow Power Engineering Institute provided me with a comprehensive understanding of the multifaceted nature of information security. I learned to safeguard data, systems, and networks from a variety of threats, developing the skills necessary to analyze vulnerabilities and implement robust defenses.
+    
+      - layout: left
+        title: Moscow College of Computer Science and Computer Engineering
+        caption: 2012 - 2016
+        sub_title: Computer networks
+        # quote: >
+          #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at the college, I acquired a comprehensive understanding of the intricate world of computer networks, mastering the principles, protocols, and technologies that underpin modern connectivity.
+
+          My studies equipped me with the knowledge and practical skills needed to design, implement, and manage robust network infrastructures. From routing and switching to network security.
 
   - title: A Little More About Me
     layout: text
